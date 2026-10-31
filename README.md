@@ -1,38 +1,34 @@
 # Saqib Umair
 
-I recently completed an MSc in Particle and Nuclear Physics at the University of Edinburgh. My main research experience is in experimental detector physics, with work on MCP-based photon detectors for the LHCb RICH Upgrade II.
+**MSc Particle and Nuclear Physics (Merit) | Experimental Detector Research | Scientific Computing and Data Analysis**
 
-For my MSc dissertation, I characterised LAPPD and HRPPD detectors using pulsed-laser position scans, motorised stages, CCD beam-profile measurements and fast timing readout. The analysis involved ROOT/C++ and Python, with work on ToA/ToT, occupancy, detector mapping, spatial-response modelling and systematic checks.
+I am a University of Edinburgh MSc graduate with experience in experimental particle-detector characterisation, scientific programming and data analysis. My work includes laser-based photon-detector measurements for the LHCb RICH Upgrade II, alongside computational projects in particle-detector reconstruction, statistical inference and machine learning.
 
-My other projects cover Geant4 detector simulation, particle transport, statistical inference and machine-learning methods for particle-physics analysis.
+This profile contains selected research and coursework projects. The repositories document the methods, code and results that I can share publicly.
 
 ## Selected projects
 
-### [LHCb RICH MCP Photon-Detector Characterisation](https://github.com/saqibumaircheema/LHCb-RICH-MCP-Photon-Detector-Characterisation-Public)
-MSc dissertation work on the spatial response of LAPPD and HRPPD photon detectors. The repository includes the experimental method, laser-profile measurements, response modelling, selected results and limitations.
+| Project | Work demonstrated |
+| --- | --- |
+| [LHCb RICH photon-detector characterisation](https://github.com/saqibumaircheema/LHCb-RICH-MCP-Photon-Detector-Characterisation-Public) | MSc dissertation: laser-based LAPPD and HRPPD measurements, detector-response analysis, ROOT/C++ and Python. Public repository shares methods, figures and results rather than restricted data or working code. |
+| [Geant4 detector reconstruction and ML](https://github.com/saqibumaircheema/Geant4-Particle-Detector-Reconstruction-ML) | MSc project: analysis of simulated detector responses, conventional particle identification, Random Forest classification and energy regression. |
+| [Heavy-resonance search](https://github.com/saqibumaircheema/Heavy-Resonance-Search-ML) | MSc project: event selection, weighted spectra, hypothesis testing and comparison of cut-based and neural-network approaches. |
+| [LHC event anomaly detection](https://github.com/saqibumaircheema/LHC-Event-Anomaly-Detection) | MSc project: PyTorch autoencoder, event preprocessing and evaluation across several simulated signal benchmarks. |
+| [Particle-decay parameter inference](https://github.com/saqibumaircheema/Particle-Decay-Parameter-Inference) | MSc project: Monte Carlo pseudoexperiments and unbinned likelihood fits to examine statistical bias and background-model assumptions. |
 
-### [Geant4 Particle-Detector Reconstruction](https://github.com/saqibumaircheema/Geant4-Particle-Detector-Reconstruction-ML)
-Detector-response simulation and reconstruction study comparing conventional methods with Random Forest classification and regression.
+**Additional projects:** [Geant4 radiotherapy depth-dose study](https://github.com/saqibumaircheema/Geant4-Radiotherapy-Depth-Dose-Study) (coursework results and documentation) · [XXZ spin-chain quantum simulation](https://github.com/saqibumaircheema/XXZ-Spin-Chain-Quantum-Simulation) (collaborative group project; individual contributions credited).
 
-### [Particle-Decay Parameter Inference](https://github.com/saqibumaircheema/Particle-Decay-Parameter-Inference)
-Monte Carlo pseudoexperiments and unbinned maximum-likelihood fits used to study parameter bias, precision and background-model mismatch.
+## Technical experience
 
-### [Heavy-Resonance Search](https://github.com/saqibumaircheema/Heavy-Resonance-Search-ML)
-Simulated heavy-resonance analysis comparing cut-based selection with neural-network classifiers, including checks for mass sculpting and misleading improvements in classifier performance.
+- **Programming and data analysis:** Python, C++, ROOT, NumPy, pandas, SciPy, Matplotlib.
+- **Machine learning and statistics:** scikit-learn, PyTorch, classification, regression, anomaly detection, likelihood-based inference.
+- **Experimental and simulation tools:** photon-detector characterisation, pulsed-laser and CCD measurements, detector readout/DAQ, Geant4-based simulation studies.
 
-### [LHC Event Anomaly Detection](https://github.com/saqibumaircheema/LHC-Event-Anomaly-Detection)
-Unsupervised PyTorch autoencoder study using Standard Model event samples and several BSM benchmark signals.
+## Project scope and attribution
 
-### [Geant4 Radiotherapy Depth-Dose Study](https://github.com/saqibumaircheema/Geant4-Radiotherapy-Depth-Dose-Study)
-Geant4-based study of photon and charged-pion transport, including depth-dose distributions, transverse profiles and RMS beam-spread measurements.
-
-## Tools
-
-Python · C++ · ROOT · Geant4 · NumPy · SciPy · pandas · uproot · PyTorch · scikit-learn · Qiskit
-
-Experimental work has included PiLAS laser measurements, CCD beam profiling, motorised position scans, FastIC, picoTDC and MuDAQ.
+These repositories document completed research and coursework; they are not presented as production software. Some original course datasets, collaboration materials and raw detector measurements are not publicly redistributed. Each project README describes the available code, results, assumptions, limitations and any attribution requirements. The collaborative quantum-computing project explicitly documents individual contributions.
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/saqib-umair-cheema/)
-- saqibumaircheema@gmail.com
+- [Email](mailto:saqibumaircheema@gmail.com)
